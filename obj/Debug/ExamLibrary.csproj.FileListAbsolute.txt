@@ -1,0 +1,5 @@
+E:\大三课\ExamLibrary\ExamLibrary\bin\ExamLibrary.dll
+E:\大三课\ExamLibrary\ExamLibrary\bin\ExamLibrary.pdb
+E:\大三课\ExamLibrary\ExamLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\大三课\ExamLibrary\ExamLibrary\obj\Debug\ExamLibrary.dll
+E:\大三课\ExamLibrary\ExamLibrary\obj\Debug\ExamLibrary.pdb
