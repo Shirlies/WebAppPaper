@@ -10,7 +10,7 @@ namespace ExamLibrary.App_Code
     {
         public SqlConnection getConnection()
         {
-            string strCon = @"Data Source=(local);DataBase=examLib;integrated security=true";
+            string strCon = @"Data Source=(local);DataBase=EmptyLibrary;integrated security=true";
             SqlConnection sqlCon = new SqlConnection(strCon);
             return sqlCon;
         }
